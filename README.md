@@ -1,4 +1,0 @@
-AngularJSApplication
-====================
-
-Angular JS application
